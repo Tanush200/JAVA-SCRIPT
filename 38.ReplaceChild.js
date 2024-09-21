@@ -8,3 +8,4 @@ newLi.textContent = "Avi";
 
 
 list.replaceChild(newLi,ChildToChange);
+// Closure  // debouncing // throttling 
